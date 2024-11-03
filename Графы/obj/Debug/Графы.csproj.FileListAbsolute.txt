@@ -1,0 +1,7 @@
+C:\Users\boris\OneDrive\Desktop\Графы\bin\Debug\Графы.exe.config
+C:\Users\boris\OneDrive\Desktop\Графы\bin\Debug\Графы.exe
+C:\Users\boris\OneDrive\Desktop\Графы\bin\Debug\Графы.pdb
+C:\Users\boris\OneDrive\Desktop\Графы\obj\Debug\Графы.csproj.AssemblyReference.cache
+C:\Users\boris\OneDrive\Desktop\Графы\obj\Debug\Графы.csproj.CoreCompileInputs.cache
+C:\Users\boris\OneDrive\Desktop\Графы\obj\Debug\Графы.exe
+C:\Users\boris\OneDrive\Desktop\Графы\obj\Debug\Графы.pdb
